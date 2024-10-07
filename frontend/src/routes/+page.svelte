@@ -1,2 +1,4 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<div class="p-8 text-center">
+  <h1 class="text-2xl">Bem vindo ao Manga Collector</h1>
+  <p>Onde você pode registrar e manter sua coleção de mangás em dia!</p>
+</div>
